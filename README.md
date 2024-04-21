@@ -75,15 +75,7 @@ Meet our dedicated team members:
 
 ## Contact
 Get in touch with us:
-- Location: A108 Adam Street, New York, NY 535022
-- Email: info@example.com
-- Phone: +1 5589 55488 55
+- Email: cseboomika@gmail.com
+- Phone: +91 93422 65586
 
-## Useful Links
-- [Home](#)
-- [About Us](#)
-- [Services](#)
-- [Terms of Service](#)
-- [Privacy Policy](#)
-
-© Copyright BMH Natureland. All Rights Reserved. Designed by BootstrapMade
+© Copyright BMH Natureland. All Rights Reserved. 
